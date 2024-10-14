@@ -1,0 +1,5 @@
+Playstation 5,550,25
+Xbox Series X,500,15
+iPhone 16,959,50
+Dragon Ball Sparkling Zero,69.99,72
+Persona 5 Royal,40,0

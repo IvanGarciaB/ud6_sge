@@ -1,0 +1,29 @@
+{
+    "productos": [
+        {
+            "Nombre": "Playstation 5",
+            "Precio": "550",
+            "Cantidad": 25
+        },
+        {
+            "Nombre": "Xbox Series X",
+            "Precio": "500",
+            "Cantidad": 15
+        },
+        {
+            "Nombre": "iPhone 16",
+            "Precio": "959",
+            "Cantidad": 50
+        },
+        {
+            "Nombre": "Dragon Ball Sparkling Zero",
+            "Precio": "69.99",
+            "Cantidad": 49
+        },
+        {
+            "Nombre": "Persona 5 Royal",
+            "Precio": "40",
+            "Cantidad": 0
+        }
+    ]
+}
